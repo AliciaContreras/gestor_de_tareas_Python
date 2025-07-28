@@ -1,0 +1,5 @@
+"- Darle de comer a los gatos [Completada]" 
+"- Hacer tareas de Python [Pendiente]" 
+"- Comprar manzanas rojas [Pendiente]" 
+"- Jugar con los gatos [Pendiente]" 
+"- Limpiar el arenero [Completada]" 
